@@ -11,7 +11,7 @@
 
 #### Oct 28th, 2021 완성된 내용
 - 초기분석(주로 엑셀 파워쿼리 이용)
-- 파이썬을 통한 주말/평일 이용자 수 Top 10 대여소 지도에 표시한 시각화 자료
+- 파이썬을 통한 주말/평일 이용자 수 Top 10 대여소 지도에 표시한 시각화 자료 : http://nbviewer.org/github/e9anna/seoulbikeriverside/blob/e03ba55c5f2118be1124a086dbb7f637db3c2324/map_simple_1028.ipynb
 
 #### TO-DO
 - 엑셀로 가공한 데이터 셋 파이썬으로 코딩해서 만들기
